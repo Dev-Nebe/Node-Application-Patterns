@@ -1,0 +1,29 @@
+{
+  "name": "membership-module",
+  "version": "1.0.0",
+  "description": "Node Application Patterns Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Nebe/Node-App-Patterns.git"
+  },
+  "author": "Dev-Nebe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dev-Nebe/Node-App-Patterns/issues"
+  },
+  "homepage": "https://github.com/Dev-Nebe/Node-App-Patterns#readme",
+  "dependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "mocha": "^6.2.2",
+    "should": "^13.2.3"
+  }
+}
